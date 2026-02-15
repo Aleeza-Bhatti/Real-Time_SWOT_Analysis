@@ -49,5 +49,5 @@ Think of it like teaching someone to recognize fruit. You show them many example
 ---
 
 ### Authors & Updates
-
+Initial idea crafted at UWB Hacks view project posting: https://devpost.com/software/pathwais-5hug2d 
 *Created by Aleeza Bhatti & Yousra Esseddiqi (July 2024), Guided by Taesik Kim*
