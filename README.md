@@ -36,15 +36,15 @@ Traditional SWOT analysis is done by hand and can be slow or subjective. Our pro
 
 ### What We Used
 
-- **Java** — The programming language.
-- **Weka** — A free, open-source machine learning toolkit. We use its J48 decision tree algorithm to learn the rules from data.
-- **J48 Decision Tree** — A method that builds a tree of simple rules (e.g., “if X > 0.5 then …”). It’s easy to understand and works well for this kind of classification.
+- **Java** - The programming language.
+- **Weka** - A free, open-source machine learning toolkit. We use its J48 decision tree algorithm to learn the rules from data.
+- **J48 Decision Tree** -  A method that builds a tree of simple rules (e.g., “if X > 0.5 then …”). It’s easy to understand and works well for this kind of classification.
 
 ---
 
 ### In Plain Terms
 
-Think of it like teaching someone to recognize fruit. You show them many examples: “This is an apple, this is an orange.” After enough examples, they can look at a new fruit and guess what it is. Our program does the same thing—but with business metrics instead of fruit, and with S/W/O/T instead of fruit names. We use a decision tree because it learns clear, interpretable rules, which is helpful when explaining results to business users.
+Think of it like teaching someone to recognize fruit. You show them many examples: “This is an apple, this is an orange.” After enough examples, they can look at a new fruit and guess what it is. Our program does the same thing, but with business metrics instead of fruit, and with S/W/O/T instead of fruit names. We use a decision tree because it learns clear, interpretable rules, which is helpful when explaining results to business users.
 
 ---
 
